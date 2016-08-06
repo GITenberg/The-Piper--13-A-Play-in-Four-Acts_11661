@@ -1,0 +1,26 @@
+_repo: The-Piper--13-A-Play-in-Four-Acts_11661
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peabody, Josephine Preston
+    alias: Marks, Mrs. Lionel
+    birthdate: 1874
+    deathdate: 1922
+    gutenberg_agent_id: '3012'
+    url: http://www.gutenberg.org/2009/agents/3012
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Preston_Peabody
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pied Piper of Hamelin (Legendary character) -- Drama'
+- !lcc 'PS'
+- GITenberg
+title: 'The Piper: A Play in Four Acts'
+url: http://www.gutenberg.org/ebooks/11661
